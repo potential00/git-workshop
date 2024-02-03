@@ -1,0 +1,45 @@
+body{
+    margin: none;
+    padding: none;
+ }
+ .mynav{
+ position: fixed;
+ width: 100%;
+ height: 80px;
+ line-height: 50px;
+ background-color: rgb(137, 137, 129);
+ 
+ 
+ }
+ .mynav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+ 
+ }
+ .mynav ul li { 
+    display: none;
+    padding: 5%;
+ 
+ }
+ .mynav ul li a {
+    text-decoration: none;
+    color: black;
+    padding:14px 16px ;
+ 
+ }
+ .myimg{
+    height: 315;
+    width:100%;
+ 
+ }
+ #contact{
+    margin: 0%;
+    padding: 0%;
+ 
+ }
+ .contact> input, label, buttun, {
+    display:block;
+    color:blue;
+    
+ }
